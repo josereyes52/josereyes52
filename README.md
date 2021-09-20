@@ -1,6 +1,6 @@
 # Full Stack / Web Developer. 
 
-Hi, I'm Jose! I'm a web developer 😄.
+Hi, I'm Jose! (System Engineer, Dominican) And a little more :D 😄.
 
 - 🤹 Networking 👉 <a href="https://www.linkedin.com/in/jose-reyes-62b291207/">LinkedIn</a>
 - 💻 Collaborating on some open-source projects and working on MINNEK DIGITAL STUDIO
